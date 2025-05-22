@@ -1,0 +1,10 @@
+SpeechRecognition
+pyttsx3
+requests
+beautifulsoup4
+python-docx
+PyPDF2
+pyaudio
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
